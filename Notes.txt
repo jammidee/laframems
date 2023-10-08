@@ -1,5 +1,5 @@
 Create By: Joel M. Damaso
-Date: 08/21/2023
+Date: 10/08/2023
 Assisted By: ChatGPT 3.5
 
 La Kubo ts
@@ -150,29 +150,29 @@ EXTENSIONS
 
 LIBRARIES
 
-**PUG 09/10/2023
+**PUG 10/08/2023
 npm install express pug @types/express --save
-**Sequelize 09/11/2023
+**Sequelize 10/08/2023
 npm install sequelize --save 
-**Sequelize TypeScript 09/26/2023
+**Sequelize TypeScript 10/08/2023
 npm install sequelize sequelize-typescript @types/sequelize --save
-**Winston logging module 09/11/2023
+**Winston logging module 10/08/2023
 npm install winston --save
 npm install winston-daily-rotate-file --save
-**Testing 09/12/2023
+**Testing 10/08/2023
 npm install mocha chai ts-node @types/mocha @types/chai --save-dev
 npm install nyc --save-dev
 npm install chai chai-http --save-dev
 
-**Sequelize 09/22/2023
+**Sequelize 10/08/2023
 npm install sequelize-cli --save
-**MySQL Driver 09/22/2023
+**MySQL Driver 10/08/2023
 npm install mysql2 --save
 
-**Cross-Origin Resource Sharing 09/26/2023
+**Cross-Origin Resource Sharing 10/08/2023
 npm install cors @types/cors --save
 
-**Axios Module 09/28/2023
+**Axios Module 10/08/2023
 npm install axios @types/axios --save
 
 **JSON Web Token
@@ -204,7 +204,7 @@ git config --global user.email "jammi_dee@yahoo.com"
 git config --global user.name "Jammi Dee"
 git commit -m "Initial commit Lalulla Microservice Framework Using Typescript"  # Commit your changes
 git branch -M main  # Rename the default branch to 'main'
-git remote add origin https://github.com/jammidee/laframets.git  # Replace with your GitHub repository URL
+git remote add origin https://github.com/jammidee/laframems.git  # Replace with your GitHub repository URL
 git pull origin main  #if there is error in push
 git pull origin main --allow-unrelated-histories #if there are errors
 git push -u origin main  # Push your code to GitHub
